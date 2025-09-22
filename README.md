@@ -1,4 +1,4 @@
-## Programming Hero Country API
+## Country API
 
 ## Table of Contents
 - [APIs Used](#apis-used)
